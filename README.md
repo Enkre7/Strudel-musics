@@ -12,21 +12,3 @@ This repository contains my musical experiments and creations using Strudel, a l
 2. Copy the code from a `.js` file in this repo
 3. Paste it into the Strudel editor
 4. Press **Play** to listen!
-
-## 📁 Structure
-
-Each file contains a complete composition with comments explaining the different parts.
-
-## 🛠️ Resources
-
-- [Strudel Documentation](https://strudel.cc/learn/getting-started/)
-- [Tutorials](https://strudel.cc/learn/)
-- [Community Discord](https://discord.gg/strudel)
-
-## 📜 License
-
-My compositions are shared for inspiration and learning.
-
----
-
-*Made with ❤️ and Strudel*
